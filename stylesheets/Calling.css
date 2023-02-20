@@ -1,0 +1,131 @@
+
+#background {
+    position: relative;
+  width: 400px;
+    height: 180px;
+    background-color: transparent;
+font-family: 'Readex Pro', sans-serif;
+}
+#firstFriend{
+    position: relative;
+    left: -150px;
+    top: -410px;
+    width: 170px;
+    border-width: 1px;
+  border-style: dashed;
+  border-radius: 30px;
+    height: 150px;
+    background-color: darkviolet;  
+     transition: all 0.9s ease-out;
+    transform-style: preserve-3d;
+    font-family: 'Readex Pro', sans-serif;
+ }
+#firstFriend:hover{
+       border-color: #fff;
+    transform: rotate(360deg);
+         cursor:pointer;
+         opacity: 0.5;
+     }
+    
+#secondFriend:hover{
+       border-color: #fff;
+    transform: rotate(360deg);
+          cursor:pointer;
+         opacity: 0.5;
+     }
+  
+    
+#secondFriend{
+    position: absolute;
+    left: 200px;
+    top: -410px;
+    width: 170px;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 30px;
+    height: 130px;
+    background-color: darkviolet;  
+    transition: all 0.9s ease-out;
+    transform-style: preserve-3d;
+     }
+
+#Image{
+     float: right;
+     position: relative;
+     border-width: 1px;
+     border-radius: 0px 30px 0px 0px;
+     background-color: white;  
+     height: 70px;
+     width: 85px;
+     }
+     
+#Phone{
+     float: left;
+     position: relative;
+     border-width: 1px;
+     border-radius: 30px 0px 0px 0px;
+     background-color: #e60e23;
+     height: 70px;
+      width: 85px;
+     }
+     #imgFriend{
+         width: 64px;
+         top: 5px;
+         height: 64px;
+         position: relative;
+     }
+     #imgPhone{
+         width: 64px;
+         color: white;
+         top:5px;
+         height: 60px;
+         position: relative;
+     }
+     #info{
+         width: 168px;
+         left: 0px;
+         top: 70px;
+         color: white;
+         height: 80px;
+         border-width: 1px;
+         border-style: ridge;
+         border-radius: 0px 0px 30px 30px;
+         background-color: #031634;  
+         position: absolute;
+    font-family: 'Readex Pro', sans-serif;
+   }
+     #Name{
+         
+        font-family: 'Readex Pro', sans-serif;
+         font-size: 28px;
+         font-weight: bold;
+          color: white;
+     }
+     #Nationality{
+         
+        font-family: 'Readex Pro', sans-serif;
+         font-size: 20px;
+       color: #f3ab65;
+     }
+     #CalledFriend{
+    position: absolute;
+    left: 200px;
+    top: -410px;
+
+     }
+     .timer{
+        
+    left: 200px;
+    margin-top: -10px;
+    
+}
+.text{
+  font-size: 50px !important ;
+ font-family: 'Readex Pro', sans-serif;
+  text-align: center;
+ background-color: #031634; 
+color: white;
+
+}
+
+ 

@@ -1,0 +1,17 @@
+
+
+html, body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: blue;
+  overflow: hidden;
+font-family: 'Righteous', cursive;
+}
+
+
+canvas {
+  -webkit-transform: translateZ(0);
+font-family: 'Righteous', cursive;
+}

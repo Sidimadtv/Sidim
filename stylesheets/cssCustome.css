@@ -1,0 +1,169 @@
+
+.navbar-default .navbar-nav > li > a {
+    background-color: white;  
+ color: darkblue;
+font-family: 'Righteous', cursive;
+}
+.navbar-default .navbar-brand {
+   background-color: white;  
+  color:darkblue;
+font-family: 'Righteous', cursive;
+}
+
+.background {
+   background-image: url(../icons/bg1.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+   background-color: white; 
+}
+
+.abackground {
+  background-image: url(../icons/bg1.jpg);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+     background-color: white;  
+}
+
+label{
+  font-size: 70px !important ;
+ 
+  text-align: center;
+  color: white;
+  text-shadow: 7px 1px 2px rgba(32, 16, 225, 1);
+font-family: 'Mada', sans-serif;
+}
+
+.label{
+  font-size: 120px !important ;
+ 
+  text-align: center;
+  color: white;
+  text-shadow: 9px 2px 4px rgba(32, 16, 225, 1);
+font-family: 'Mada', sans-serif;
+}
+
+.error{
+  font-size: 20px !important ;
+ font-family: 'Readex Pro', sans-serif;
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  color: white;
+  text-shadow: 5px 5px 10px white ,  0 0 20px #0000FF;
+}
+
+.ui-input-text {
+  border-radius: 100px 100px;
+	width: 40% ;
+	margin-left:auto;
+	margin-right:auto;
+  text-align: center;
+ background-color: #031634;
+font-family: 'Righteous', cursive;
+ font-size: 20px !important ;
+}
+
+.centerLink{
+  border-style: none;;
+  width: 95px;
+  height: 95px;
+  display: block;
+  margin: 0 auto;
+font-family: 'Righteous', cursive;
+}
+.helpicon{
+    border-radius: 100px 100px;
+    border-width: 2px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+top:-10px;
+}
+.helpicon:hover{
+    background-color: darkblue;
+}
+.next{
+  border-radius: 100px 100px;
+  width: 70px;
+  height: 70px;
+  display: block;
+  margin-right:auto;
+}
+.next:hover{
+    background-color: darkblue;
+}
+.back{
+  border-radius: 100px 100px;
+  width: 70px;
+  height: 70px;
+  display: block;
+  margin-right:auto;
+}
+.back:hover{
+    background-color: darkblue;
+}
+
+.avatarMan{
+    border-radius: 50% 50%;
+    width: 70%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+}
+.avatarMan:hover{
+ //
+}
+.avatarWoman{
+    border-radius: 50% 50%;
+    width: 70%;
+    height: 30%;
+    display: block;
+    margin-right: auto;
+}
+.avatarWoman:hover{
+  //
+}
+
+.start{
+  border-radius: 100px 100px;
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.avatar{
+    border-radius: 50% 50%;
+    width: 80%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 1;
+}
+
+.score{
+  background-color:#031634;
+  border-radius:50px;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.8;
+  font-weight: bold;
+  font-size: 30px;
+  color: #f3ab65;
+  padding:5px;
+  width: 900px;
+font-family: 'Readex Pro', sans-serif;
+}
+.myRow{
+  background-color:#031634;
+  border-radius:200px;
+  margin-right:5px;
+  margin-left:5px;
+font-family: 'Readex Pro', sans-serif;
+}
